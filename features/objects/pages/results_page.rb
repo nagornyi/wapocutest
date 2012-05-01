@@ -1,0 +1,3 @@
+class ResultsPage < GoogleSite
+end
+

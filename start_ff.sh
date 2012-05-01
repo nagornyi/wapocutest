@@ -1,0 +1,2 @@
+export WBROWSER=ff
+rake

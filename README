@@ -1,0 +1,15 @@
+About:
+  This test automation framework is based on Cucumber and Watir Webdriver tools.
+  It implements the hybrid keyword-driven/page-element-object approach.
+
+Prerequisites:
+  1. Install all required gems (watir-webdriver, cucumber, syntax, mysql).
+  2. To run the example test suite you should copy phplogin/ directory to the web server root folder.
+
+Execution:
+  Corresponding shell and batch files must be executed in order to run the tests against different browsers (Firefox, Chrome and Internet Explorer are currently supported).
+  Using the default target all features and scenarios will be executed except those having @under_construction tag.
+
+  You can also execute the selected features.
+  cucumber features/some.feature - will execute the selected feature.
+

@@ -1,0 +1,2 @@
+export WBROWSER=chrome
+rake

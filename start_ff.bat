@@ -1,0 +1,2 @@
+@set WBROWSER=ff
+@rake
